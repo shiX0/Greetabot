@@ -1,5 +1,5 @@
 # Greetabot
-Simple Discord bot to greet and integrated with ChatGPT.
+Simple Discord bot to greet and integrated with ChatGPT deployed in Replit.
 
 ## Welcome and Leave Messages
 Greetabot welcomes new members with a custom message and displays a picture from Meme Atlas. It also sends a farewell message when members leave.
