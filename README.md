@@ -14,4 +14,4 @@ NOTE: This project was created in early 2023 and its not maintained.
 
 ## Chat with UnhingedGPT
 chat with prompt injected RTM mode chat gpt.
-![GPT Image](images/UnhingedGPT)
+![GPT Image](images/UnhingedGPT.png)
